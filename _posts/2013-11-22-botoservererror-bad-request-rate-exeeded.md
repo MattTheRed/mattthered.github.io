@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BotoServerError: 400 Bad Request - Rate Exceeded
+title: BotoServerError - 400 Bad Request - Rate Exceeded
 redirect_from:
   - /post/67763258327/botoservererror-400-bad-request-rate-exceeded
 ---
